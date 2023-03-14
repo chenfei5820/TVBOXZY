@@ -7,7 +7,7 @@
 //"数组":"<div class=\"item\"&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
-"链接":"href=\"/fcw/f&&.html\"",
+"链接":"href=\"/xjzy/d&&.html\"",
 "副标题":"<div class=\"duration\">&&</div>",
 "链接前缀":"https://avhh.vip/fcw/fplay",
 "链接后缀":"-1-1.html",
@@ -47,5 +47,5 @@
 "简介":"<p>&&</p>",
 "分类url":"https://avhh.vip/xjzy/{cateId}-{catePg}.html",
 "免嗅":"0"
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+
 }
